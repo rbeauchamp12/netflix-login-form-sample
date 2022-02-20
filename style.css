@@ -71,6 +71,7 @@ form input {
 
 form input::placeholder {
   font-family: "Poppins", sans-serif;
+  letter-spacing: 2.2px;
 }
 
 form button {
@@ -80,6 +81,7 @@ form button {
   font-weight: bolder;
   font-family: "Poppins", sans-serif;
   letter-spacing: 2.4px;
+  text-transform: uppercase;
 }
 
 .content p {
@@ -87,6 +89,7 @@ form button {
   color: #737373;
   font-size: 13px;
   text-align: center;
+  letter-spacing: 2.4px;
 }
 
 .content p a {
